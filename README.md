@@ -1,2 +1,2 @@
 # portfolio.elasnatech
-O projeto final para a conclusão do Programa Elas na Tech
+O projeto final para o Programa Elas na Tech
